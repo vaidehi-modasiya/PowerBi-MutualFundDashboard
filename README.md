@@ -101,6 +101,6 @@ This dashboard can be effectively used by:
 Aspiring Data Analyst | Power BI & Data Visualization Enthusiast  
 
 🔗 GitHub: https://github.com/Vaidehi-modasiya  
-🔗 LinkedIn: linkedin.com/in/vaidehi-modasiya2006
+🔗 LinkedIn: www.linkedin.com/in/vaidehi-modasiya2006
 
 ---
